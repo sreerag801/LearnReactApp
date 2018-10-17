@@ -10,7 +10,7 @@ const cockpit = (props)=>{
       }
     return(
         <div>
-            <h1 className="App-header hello">Hi I'm sreerag</h1>
+            <h1 className="App-header">Hi I'm sreerag</h1>
             <p>Just testing my react app</p>
             <p>{props.titleMsg}</p>
             <input type="text"/>
